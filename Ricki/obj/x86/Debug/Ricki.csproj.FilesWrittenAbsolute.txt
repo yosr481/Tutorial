@@ -1,0 +1,5 @@
+/home/yosr481/Projects/Ricki/Ricki/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/yosr481/Projects/Ricki/Ricki/bin/Debug/Ricki.pdb
+/home/yosr481/Projects/Ricki/Ricki/bin/Debug/Ricki.exe
+/home/yosr481/Projects/Ricki/Ricki/obj/x86/Debug/Ricki.exe
+/home/yosr481/Projects/Ricki/Ricki/obj/x86/Debug/Ricki.pdb
