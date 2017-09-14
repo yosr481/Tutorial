@@ -7,7 +7,7 @@ namespace Ricki
 		public static void Main (string[] args)
 		{
 			top:
-			Console.WriteLine ("Hello There!");
+
 			Console.WriteLine ("Please enter max amount for the bucket: ");
 			int maxAmount = Convert.ToInt32(Console.ReadLine ());
 			Console.WriteLine ("Please enter name for the bucket: ");
